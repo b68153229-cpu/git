@@ -1,2 +1,4 @@
 # git
-my first git repo
+my first git repository.
+<br>
+by me
